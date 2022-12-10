@@ -1,6 +1,6 @@
 <img src="https://www.henkel.com/resource/blob/895172/fc0a5576103dfbf3271bffde83fd95c3/data/2018-12-11-blockchain-animiert-teaser-16-9.gif" align="right" width="400" height="300">
 
-### Hi there, Pusula Finans Labs. 
+### Hi there, Coin Hunters Labs. 
 
 ## Next generation blockchain solutions | Community builder
 
@@ -14,9 +14,9 @@
 <a href="https://discord.gg/TNDcT4UnB7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/ruescommunity" height="40" width="40" /></a>
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pusulafinanslabs&label=Profile%20views&color=0e75b6&style=flat" alt="pusulafinanslabs" /> <a href="https://twitter.com/CoinHuntersTR" target="blank"><img src="https://img.shields.io/twitter/follow/pusulafinans?logo=twitter&style=for-the-badge" alt="pusulafinans" /></a> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coiinhunterstr&label=Profile%20views&color=0e75b6&style=flat" alt="coinhunterstr" /> <a href="https://twitter.com/CoinHuntersTR" target="blank"><img src="https://img.shields.io/twitter/follow/coinhunterstr?logo=twitter&style=for-the-badge" alt="pusulafinans" /></a> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=pusulafinanslabs&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
+<img src="https://github-readme-stats.vercel.app/api?username=coinhunterstr&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
 
 - 🔭 We are currently working on [developing new blockchain](pusulafinanslabs@protonmail.com)
 
