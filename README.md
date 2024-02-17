@@ -1,6 +1,6 @@
 <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*r45GDWbztqbpryOlc_leRg.gif" align="right" width="400" height="300">
 
-### Hi there, Coin Hunters Labs. 
+### Hi there, Coin Hunters
 
 ## Next generation blockchain solutions | Community builder
 
