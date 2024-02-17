@@ -18,7 +18,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=coinhunterstr&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
 
-> 🔭 We are currently working on [developing new blockchain](info@coinhunterstr.com)
+> 🔭 We are currently learning Layer 2s and developing new DApps
 
 > 🌱 We are currently learning **Blokchain**
 
