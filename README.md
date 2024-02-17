@@ -1,4 +1,4 @@
-<img src="https://www.henkel.com/resource/blob/895172/fc0a5576103dfbf3271bffde83fd95c3/data/2018-12-11-blockchain-animiert-teaser-16-9.gif" align="right" width="400" height="300">
+<img src="https://media.licdn.com/dms/image/D4E12AQFG7dAVxHgZzw/article-cover_image-shrink_600_2000/0/1683408726296?e=2147483647&v=beta&t=HahKE2Hrqbu4CBfSdkWqxhHynmeA8xQQoCMC6f-Fhcs" align="right" width="400" height="300">
 
 ### Hi there, Coin Hunters Labs. 
 
