@@ -35,3 +35,7 @@
 <a href="https://wallet.keplr.app/chains/dymension?modal=validator&chain=dymension_1100-1&validator_address=dymvaloper1p87xgcekkkpp783xl5wu48p0dw2p2duru5ul9n">
      <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png"  align="left" width="200" height="150">
 </a>
+
+
+
+![snake gif](https://github.com/CoinHuntersTR/CoinHuntersTR/blob/output/github-contribution-grid-snake.gif)
