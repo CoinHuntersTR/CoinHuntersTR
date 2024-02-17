@@ -28,7 +28,7 @@
 
 > 💬 Ask about us  - [Twitter](https://twitter.com/CoinHuntersTR) -[Telegram](https://t.me/CoinHuntersTR)
 
-> ⚡ Fun fact **Managing Community | produce content**
+> ⚡ **Managing Community | produce content**
 
 ## Mainnet Validator
 
