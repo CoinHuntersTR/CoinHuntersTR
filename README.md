@@ -35,11 +35,6 @@
 <a href="https://wallet.keplr.app/chains/dymension?modal=validator&chain=dymension_1100-1&validator_address=dymvaloper1p87xgcekkkpp783xl5wu48p0dw2p2duru5ul9n">
      <img src="https://github.com/CoinHuntersTR/CoinHuntersTR/assets/111747226/0a4e2ef8-8658-4baa-84f0-45fba95e957b"  align="left" width="200" height="150">
 </a>
-<a href="https://wallet.keplr.app/chains/dymension?modal=validator&chain=dymension_1100-1&validator_address=dymvaloper1p87xgcekkkpp783xl5wu48p0dw2p2duru5ul9n">
-     <img src="https://github.com/CoinHuntersTR/CoinHuntersTR/assets/111747226/0a4e2ef8-8658-4baa-84f0-45fba95e957b"  align="centre" width="200" height="150">
-</a>
-<a href="https://wallet.keplr.app/chains/dymension?modal=validator&chain=dymension_1100-1&validator_address=dymvaloper1p87xgcekkkpp783xl5wu48p0dw2p2duru5ul9n">
-     <img src="https://github.com/CoinHuntersTR/CoinHuntersTR/assets/111747226/0a4e2ef8-8658-4baa-84f0-45fba95e957b"  align="right" width="200" height="150">
-</a>
+
 
   
