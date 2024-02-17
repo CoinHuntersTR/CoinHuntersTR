@@ -37,4 +37,8 @@
 </a>
 
 
-  
+## Testnet Validator
+
+<a href="https://babylon.explorers.guru/validator/bbnvaloper1c06stfxvltj6h7fcfwll6frsusknqyay05l7wj">
+     <img src="https://media.licdn.com/dms/image/D4D0BAQEbuKIO6Sc-oA/company-logo_200_200/0/1691509250626/babylon_chain_logo?e=2147483647&v=beta&t=W4sRqcyJEWAhamGmD4jpWc5wZVy2R_NP-OW_DFBs7WE"  align="left" width="200" height="150">
+</a>  
