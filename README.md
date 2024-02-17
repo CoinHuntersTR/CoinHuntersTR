@@ -9,9 +9,11 @@
 ## Reach out to we
 
 <a href="https://twitter.com/CoinHuntersTR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
-<a href="https://coinhunterstr.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaferayan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CoinHuntersTR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1vykhlufpaoghrwhjikrqg" height="30" width="40" /></a>
 <a href="https://discord.gg/TNDcT4UnB7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/ruescommunity" height="40" width="40" /></a>
+<a href="https://coinhunterstr.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaferayan" height="30" width="40" /></a>
+
+
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CoinHuntersTR&label=Profile%20views&color=0e75b6&style=flat" alt="CoinHuntersTR" /> <a href="https://twitter.com/CoinHuntersTR" target="blank"><img src="https://img.shields.io/twitter/follow/CoinHuntersTR?logo=twitter&style=for-the-badge" alt="CoinHuntersTR" " /></a> 
