@@ -38,6 +38,9 @@
 
 <br/><br>
 
+
+
+
 ## Testnet Validator
 
 <a href="https://babylon.explorers.guru/validator/bbnvaloper1c06stfxvltj6h7fcfwll6frsusknqyay05l7wj">
