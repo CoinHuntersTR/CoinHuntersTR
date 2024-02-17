@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E12AQFG7dAVxHgZzw/article-cover_image-shrink_600_2000/0/1683408726296?e=2147483647&v=beta&t=HahKE2Hrqbu4CBfSdkWqxhHynmeA8xQQoCMC6f-Fhcs" align="right" width="400" height="300">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*r45GDWbztqbpryOlc_leRg.gif" align="right" width="400" height="300">
 
 ### Hi there, Coin Hunters Labs. 
 
