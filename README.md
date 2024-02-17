@@ -22,7 +22,7 @@
 
 > 🌱 We are currently learning **Blokchain**
 
-> 👨‍💻 All of us projects are available at [Github](https://github.com/CoinHuntersTR)
+> 👨‍💻 All of our projects are available at [Github](https://github.com/CoinHuntersTR)
 
 > 📝 We regularly write articles on Layer-1 Blokchain
 
