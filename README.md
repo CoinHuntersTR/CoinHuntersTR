@@ -20,8 +20,6 @@
 
 > 🔭 We are currently learning Layer 2s and developing new DApps
 
-> 🌱 We are currently learning **Blokchain**
-
 > 👨‍💻 All of our projects are available at [Github](https://github.com/CoinHuntersTR)
 
 > 📝 We run a very influential crypto community | Produce contents
