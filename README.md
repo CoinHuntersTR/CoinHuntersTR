@@ -18,17 +18,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=coinhunterstr&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
 
-- 🔭 We are currently working on [developing new blockchain](info@coinhunterstr.com)
+> 🔭 We are currently working on [developing new blockchain](info@coinhunterstr.com)
 
-- 🌱 We are currently learning **Blokchain**
+> 🌱 We are currently learning **Blokchain**
 
-- 👨‍💻 All of us projects are available at [Github](https://github.com/CoinHuntersTR)
+> 👨‍💻 All of us projects are available at [Github](https://github.com/CoinHuntersTR)
 
-- 📝 We regularly write articles on Layer-1 Blokchain
+> 📝 We regularly write articles on Layer-1 Blokchain
 
-- 💬 Ask about us  - [Twitter](https://twitter.com/CoinHuntersTR) -[Telegram](https://t.me/CoinHuntersTR)
+> 💬 Ask about us  - [Twitter](https://twitter.com/CoinHuntersTR) -[Telegram](https://t.me/CoinHuntersTR)
 
-- ⚡ Fun fact **Managing Community | produce content**
+> ⚡ Fun fact **Managing Community | produce content**
 
 ## Mainnet Validator
 
