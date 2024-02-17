@@ -35,11 +35,3 @@
 <a href="https://wallet.keplr.app/chains/dymension?modal=validator&chain=dymension_1100-1&validator_address=dymvaloper1p87xgcekkkpp783xl5wu48p0dw2p2duru5ul9n">
      <img src="https://github.com/CoinHuntersTR/CoinHuntersTR/assets/111747226/0a4e2ef8-8658-4baa-84f0-45fba95e957b"  align="left" width="200" height="150">
 </a>
-
-# 
-
-## Testnet Validator
-
-<a href="https://babylon.explorers.guru/validator/bbnvaloper1c06stfxvltj6h7fcfwll6frsusknqyay05l7wj">
-     <img src="https://media.licdn.com/dms/image/D4D0BAQEbuKIO6Sc-oA/company-logo_200_200/0/1691509250626/babylon_chain_logo?e=2147483647&v=beta&t=W4sRqcyJEWAhamGmD4jpWc5wZVy2R_NP-OW_DFBs7WE"  align="left" width="200" height="150">
-</a>  
