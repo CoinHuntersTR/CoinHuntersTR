@@ -4,7 +4,7 @@
 
 ## Next generation blockchain solutions | Community builder
 
-<font color="pink">We are building the future. </font>
+<font color="red">We are currently working on blockchain technology </font>
 
 ## Reach out to we
 
