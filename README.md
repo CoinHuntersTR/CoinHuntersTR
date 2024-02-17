@@ -24,7 +24,7 @@
 
 > 👨‍💻 All of our projects are available at [Github](https://github.com/CoinHuntersTR)
 
-> 📝 We regularly write articles on Layer-1 Blokchain
+> 📝 We run a very influential crypto community | Produce contents
 
 > 💬 Ask about us  - [Twitter](https://twitter.com/CoinHuntersTR) -[Telegram](https://t.me/CoinHuntersTR)
 
