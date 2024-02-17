@@ -32,6 +32,6 @@
 
   ## Mainnet Validator
 
-  <img src="https://github.com/CoinHuntersTR/CoinHuntersTR/assets/111747226/0a4e2ef8-8658-4baa-84f0-45fba95e957b" align="right" width="400" height="300">
+  <img src="https://github.com/CoinHuntersTR/CoinHuntersTR/assets/111747226/0a4e2ef8-8658-4baa-84f0-45fba95e957b" align="left" width="200" height="150">
 
   
