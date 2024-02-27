@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*r45GDWbztqbpryOlc_leRg.gif" align="right" width="400" height="300">
+<img src="https://www.kg-legal.eu/wp-content/uploads/2021/10/blockchain.gif" align="right" width="400" height="300">
 
 ### Hi there, Coin Hunters
 
