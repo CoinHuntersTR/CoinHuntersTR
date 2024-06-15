@@ -8,7 +8,7 @@
 
 ## Reach out to we
 
-<a href="https://twitter.com/CoinHuntersTR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
+<a href="https://twitter.com/coinhunters_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CoinHuntersTR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1vykhlufpaoghrwhjikrqg" height="30" width="40" /></a>
 <a href="https://discord.gg/TNDcT4UnB7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/ruescommunity" height="40" width="40" /></a>
 <a href="https://coinhunterstr.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaferayan" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 
 > 📝 We run a very influential crypto community | Produce contents
 
-> 💬 Ask about us  - [Twitter](https://twitter.com/CoinHuntersTR) -[Telegram](https://t.me/CoinHuntersTR)
+> 💬 Ask about us  - [Twitter](https://twitter.com/coinhunters_) -[Telegram](https://t.me/CoinHuntersTR)
 
 > ⚡ **Managing Community | produce content**
 
