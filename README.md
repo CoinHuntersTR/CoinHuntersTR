@@ -32,17 +32,17 @@
 
 ## Mainnet Validator
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="margin-right: 20px;">
-    <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" width="100">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" alt="Dymension Mainnet" width="100">
     <p>Dymension Mainnet</p>
   </div>
-  <div style="margin-right: 20px;">
-    <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" alt="Validator 2" width="100">
+  <div style="text-align: center;">
+    <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" alt="Lava Network" width="100">
     <p>Lava Network</p>
   </div>
-  <div style="margin-right: 20px;">
-    <img src="https://pbs.twimg.com/profile_images/1765792149940113411/Z7-0ngUy_400x400.jpg" alt="Validator 3" width="100">
+  <div style="text-align: center;">
+    <img src="https://pbs.twimg.com/profile_images/1765792149940113411/Z7-0ngUy_400x400.jpg" alt="Nibiru Chain" width="100">
     <p>Nibiru Chain</p>
   </div>
 </div>
