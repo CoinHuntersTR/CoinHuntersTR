@@ -32,41 +32,18 @@
 
 ## Mainnet Validator
 
-<style>
-  .validator-table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  .validator-table td {
-    width: 33.33%;
-    text-align: center;
-    padding: 10px;
-    vertical-align: top;
-  }
-  .validator-table img {
-    max-width: 100px;
-    height: auto;
-  }
-  @media (max-width: 600px) {
-    .validator-table td {
-      width: 100%;
-      display: block;
-    }
-  }
-</style>
-
-<table class="validator-table">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td>
-      <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" alt="Dymension Mainnet">
+    <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
+      <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" alt="Dymension Mainnet" style="max-width: 100px; height: auto;">
       <p>Dymension Mainnet</p>
     </td>
-    <td>
-      <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" alt="Lava Network">
+    <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
+      <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" alt="Lava Network" style="max-width: 100px; height: auto;">
       <p>Lava Network</p>
     </td>
-    <td>
-      <img src="https://pbs.twimg.com/profile_images/1765792149940113411/Z7-0ngUy_400x400.jpg" alt="Nibiru Chain">
+    <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
+      <img src="https://pbs.twimg.com/profile_images/1765792149940113411/Z7-0ngUy_400x400.jpg" alt="Nibiru Chain" style="max-width: 100px; height: auto;">
       <p>Nibiru Chain</p>
     </td>
   </tr>
