@@ -32,17 +32,19 @@
 
 ## Mainnet Validator
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="text-align: center;">
-    <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" alt="Dymension Mainnet" width="100">
-    <p>Dymension Mainnet</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" alt="Lava Network" width="100">
-    <p>Lava Network</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://pbs.twimg.com/profile_images/1765792149940113411/Z7-0ngUy_400x400.jpg" alt="Nibiru Chain" width="100">
-    <p>Nibiru Chain</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" alt="Dymension Mainnet" width="100">
+      <p>Dymension Mainnet</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" alt="Lava Network" width="100">
+      <p>Lava Network</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://pbs.twimg.com/profile_images/1765792149940113411/Z7-0ngUy_400x400.jpg" alt="Nibiru Chain" width="100">
+      <p>Nibiru Chain</p>
+    </td>
+  </tr>
+</table>
