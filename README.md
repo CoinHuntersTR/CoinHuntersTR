@@ -35,15 +35,21 @@
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
-      <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" alt="Dymension Mainnet" style="width: 100px; height: 100px; object-fit: contain;">
-      <p>Dymension</p>
+      <a href="https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper1p87xgcekkkpp783xl5wu48p0dw2p2duru5ul9n&step_id=2" target="_blank">
+        <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" alt="Dymension Mainnet" style="width: 100px; height: 100px; object-fit: contain;">
+      </a>
+      <p>Dymension Mainnet</p>
     </td>
     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
-      <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" alt="Lava Network" style="width: 100px; height: 100px; object-fit: contain;">
+      <a href="https://wallet.keplr.app/chains/lava?modal=staking&chain=lava-mainnet-1&validator_address=lava%40valoper1xxezsqtdsmztz9ugutyyjmvma6aukh07fylqhe&step_id=2" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" alt="Lava Network" style="width: 100px; height: 100px; object-fit: contain;">
+      </a>
       <p>Lava Network</p>
     </td>
     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
-      <img src="https://pbs.twimg.com/profile_images/1765792149940113411/Z7-0ngUy_400x400.jpg" alt="Nibiru Chain" style="width: 100px; height: 100px; object-fit: contain;">
+      <a href="https://app.nibiru.fi/stake" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1765792149940113411/Z7-0ngUy_400x400.jpg" alt="Nibiru Chain" style="width: 100px; height: 100px; object-fit: contain;">
+      </a>
       <p>Nibiru Chain</p>
     </td>
   </tr>
