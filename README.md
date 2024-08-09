@@ -32,6 +32,17 @@
 
 ## Mainnet Validator
 
-<a href="https://wallet.keplr.app/chains/dymension?modal=validator&chain=dymension_1100-1&validator_address=dymvaloper1p87xgcekkkpp783xl5wu48p0dw2p2duru5ul9n">
-     <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png"  align="left" width="200" height="150">
-</a>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="margin-right: 20px;">
+    <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" width="100">
+    <p>Dymension Mainnet</p>
+  </div>
+  <div style="margin-right: 20px;">
+    <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" alt="Validator 2" width="100">
+    <p>Lava Network</p>
+  </div>
+  <div style="margin-right: 20px;">
+    <img src="https://pbs.twimg.com/profile_images/1765792149940113411/Z7-0ngUy_400x400.jpg" alt="Validator 3" width="100">
+    <p>Nibiru Chain</p>
+  </div>
+</div>
