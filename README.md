@@ -36,7 +36,7 @@
   <tr>
     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
       <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" alt="Dymension Mainnet" style="width: 100px; height: 100px; object-fit: contain;">
-      <p>Dymension Mainnet</p>
+      <p>Dymension</p>
     </td>
     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
       <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" alt="Lava Network" style="width: 100px; height: 100px; object-fit: contain;">
