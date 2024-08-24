@@ -36,7 +36,7 @@
   <tr>
     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
       <a href="https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper1p87xgcekkkpp783xl5wu48p0dw2p2duru5ul9n&step_id=2" target="_blank">
-        <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" alt="Dymension Mainnet" style="width: 100px; height: 100px; object-fit: contain;">
+        <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" alt="Dymension" style="width: 100px; height: 100px; object-fit: contain;">
       </a>
       <p>Dymension Mainnet</p>
     </td>
