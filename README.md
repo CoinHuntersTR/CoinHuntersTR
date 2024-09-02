@@ -52,5 +52,17 @@
       </a>
       <p>Nibiru Chain</p>
     </td>
+     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
+      <a href="https://hub.zetachain.com/staking/zetavaloper1k048rkrpxdnnzknjrja3xdker2xp4jhegrpxks" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1626225438849929218/h_HtSU1a_400x400.jpg" alt="Zetachain" style="width: 100px; height: 100px; object-fit: contain;">
+      </a>
+      <p>Zeta Chain</p>
+    </td>
+     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
+      <a href="https://explorer.coinhunterstr.com/blockx/staking/blockxvaloper1rk49eujue99cqsynqd7fgv4rp44rw4dc5tuh26" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1571914336288776193/HmxJDHvF_400x400.jpg" alt="Blockx" style="width: 100px; height: 100px; object-fit: contain;">
+      </a>
+      <p>BlockX</p>
+    </td>
   </tr>
 </table>
