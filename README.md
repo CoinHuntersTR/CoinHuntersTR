@@ -59,6 +59,12 @@
       <p>Zeta Chain</p>
     </td>
      <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
+      <a href="https://explorer.coinhunterstr.com/Mantra/staking/mantravaloper102nulk7g4ttg9ynmkhjdndtrrlwd7hjuaf0j2d" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1790339778346618880/ihlLQAMC_400x400.jpg" alt="Mantra" style="width: 100px; height: 100px; object-fit: contain;">
+      </a>
+      <p>Mantra</p>
+    </td>
+         <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
       <a href="https://explorer.coinhunterstr.com/blockx/staking/blockxvaloper1rk49eujue99cqsynqd7fgv4rp44rw4dc5tuh26" target="_blank">
         <img src="https://pbs.twimg.com/profile_images/1571914336288776193/HmxJDHvF_400x400.jpg" alt="Blockx" style="width: 100px; height: 100px; object-fit: contain;">
       </a>
