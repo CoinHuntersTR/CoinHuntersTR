@@ -90,46 +90,34 @@
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
-      <a href="https://wallet.keplr.app/chains/dymension?modal=staking&chain=dymension_1100-1&validator_address=dymvaloper1p87xgcekkkpp783xl5wu48p0dw2p2duru5ul9n&step_id=2" target="_blank">
-        <img src="https://coinhunterstr.com/wp-content/uploads/2024/02/dymension.png" alt="Dymension" style="width: 100px; height: 100px; object-fit: contain;">
+      <a href="https://explorer.coinhunterstr.com/Airchains-Testnet/staking/airvaloper1986du694z9wduhxhtpysxstk8jr0qw0a0nu6a9" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1689908960726245376/NSEHl_ga_400x400.jpg" alt="Airchains" style="width: 100px; height: 100px; object-fit: contain;">
       </a>
-      <p>Dymension</p>
+      <p>Airchains</p>
     </td>
     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
-      <a href="https://wallet.keplr.app/chains/lava?modal=staking&chain=lava-mainnet-1&validator_address=lava%40valoper1xxezsqtdsmztz9ugutyyjmvma6aukh07fylqhe&step_id=2" target="_blank">
-        <img src="https://pbs.twimg.com/profile_images/1628433459977850882/l4oqDz8R_400x400.jpg" alt="Lava Network" style="width: 100px; height: 100px; object-fit: contain;">
+      <a href="https://explorer.coinhunterstr.com/Empeiria-Testnet/staking/empevaloper19s20dxtpp2eqmwlgp6drc9ak5h0gyfhc90zzrt" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1575715887591612419/D2Aw6uNh_400x400.jpg" alt="Empeiria Network" style="width: 100px; height: 100px; object-fit: contain;">
       </a>
-      <p>Lava Network</p>
+      <p>Empeiria Network</p>
     </td>
     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
-      <a href="https://app.nibiru.fi/stake" target="_blank">
-        <img src="https://pbs.twimg.com/profile_images/1765792149940113411/Z7-0ngUy_400x400.jpg" alt="Nibiru Chain" style="width: 100px; height: 100px; object-fit: contain;">
+      <a href="https://explorer.coinhunterstr.com/Sunrise-Testnet/staking/sunrisevaloper13xhjcwatxvjpdsx5lpk7t9wryhxr7wgj49fy0k" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1829726747958325249/KwdbXpxQ_400x400.jpg" alt="Sunrise" style="width: 100px; height: 100px; object-fit: contain;">
       </a>
-      <p>Nibiru Chain</p>
+      <p>Sunrise</p>
     </td>
      <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
-      <a href="https://hub.zetachain.com/staking/zetavaloper1k048rkrpxdnnzknjrja3xdker2xp4jhegrpxks" target="_blank">
-        <img src="https://pbs.twimg.com/profile_images/1626225438849929218/h_HtSU1a_400x400.jpg" alt="Zetachain" style="width: 100px; height: 100px; object-fit: contain;">
+      <a href="https://testnet.itrocket.net/union/staking/unionvaloper1zm6e5cxg6srscdy6kev6995l7ds7hxctghrrw4" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1821610378796634112/zxLnzPaL_400x400.png" alt="Union" style="width: 100px; height: 100px; object-fit: contain;">
       </a>
-      <p>Zeta Chain</p>
+      <p>Union</p>
     </td>
      <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
-      <a href="https://explorer.coinhunterstr.com/Mantra/staking/mantravaloper102nulk7g4ttg9ynmkhjdndtrrlwd7hjuaf0j2d" target="_blank">
-        <img src="https://pbs.twimg.com/profile_images/1790339778346618880/ihlLQAMC_400x400.jpg" alt="Mantra" style="width: 100px; height: 100px; object-fit: contain;">
+      <a href="https://explorer.coinhunterstr.com/Warden-Testnet/staking/wardenvaloper1ue88ahxpq2rngnhln8yz23xwclwahe72csmudf" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1827100976152555520/N-CVNgTL_400x400.jpg" alt="Warden" style="width: 100px; height: 100px; object-fit: contain;">
       </a>
-      <p>Mantra</p>
-    </td>
-         <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
-      <a href="https://staking.avail.tools/#/overview" target="_blank">
-        <img src="https://pbs.twimg.com/profile_images/1671126588694609920/THQgYJtf_400x400.png" alt="Avail" style="width: 100px; height: 100px; object-fit: contain;">
-      </a>
-      <p>Avail</p>
-    </td>
-         <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
-      <a href="https://explorer.coinhunterstr.com/blockx/staking/blockxvaloper1rk49eujue99cqsynqd7fgv4rp44rw4dc5tuh26" target="_blank">
-        <img src="https://pbs.twimg.com/profile_images/1571914336288776193/HmxJDHvF_400x400.jpg" alt="Blockx" style="width: 100px; height: 100px; object-fit: contain;">
-      </a>
-      <p>BlockX</p>
+      <p>Warden</p>
     </td>
   </tr>
 </table>
