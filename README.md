@@ -76,6 +76,12 @@
       </a>
       <p>BlockX</p>
     </td>
+         <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
+      <a href="https://explorer.coinhunterstr.com/Crossfi/staking/mxvaloper139nrrmwhvnl2fq8flac67py39plqqg3zl88kuq" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1719733805483790336/9rtdiMS-_400x400.jpg" alt="CrossFi" style="width: 100px; height: 100px; object-fit: contain;">
+      </a>
+      <p>CrossFi</p>
+    </td>
   </tr>
 </table>
 
