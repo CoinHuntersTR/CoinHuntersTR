@@ -68,7 +68,7 @@
       <a href="https://staking.avail.tools/#/overview" target="_blank">
         <img src="https://pbs.twimg.com/profile_images/1671126588694609920/THQgYJtf_400x400.png" alt="Avail" style="width: 100px; height: 100px; object-fit: contain;">
       </a>
-      <p>BlockX</p>
+      <p>Avail</p>
     </td>
          <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
       <a href="https://explorer.coinhunterstr.com/blockx/staking/blockxvaloper1rk49eujue99cqsynqd7fgv4rp44rw4dc5tuh26" target="_blank">
