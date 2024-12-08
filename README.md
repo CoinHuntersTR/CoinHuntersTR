@@ -131,5 +131,12 @@
       </a>
       <p>Warden</p>
     </td>
+    </td>
+     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
+      <a href="https://explorer.coinhunterstr.com/Axone-Testnet/staking/axonevaloper1jmfdgupx9sealjvcg9vn2wvrp9gyhd5yvzvmu5" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1841523650043772928/EeZIYE7B_400x400.jpg" alt="Axone" style="width: 100px; height: 100px; object-fit: contain;">
+      </a>
+      <p>Axone</p>
+    </td>
   </tr>
 </table>
