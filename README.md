@@ -90,6 +90,18 @@
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
     <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
+      <a href="https://testnet.storyscan.app/validators/storyvaloper1upyt7dr96p2ffl62ecwypeglqvk7596a3xrmvn" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1820303986349805569/MKfPfLtz_400x400.jpg" alt="Story" style="width: 100px; height: 100px; object-fit: contain;">
+      </a>
+      <p>Story Protocol</p>
+    </td>
+    <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
+      <a href="https://testnet.pell.explorers.guru/validator/pellvaloper1zr2cxnrfy0jcfv4x7jgm9adxpz8wxa26wn7ztz" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1811609717522989056/_jr_bub2_400x400.png" alt="PellNetwork" style="width: 100px; height: 100px; object-fit: contain;">
+      </a>
+      <p>Pell Network</p>
+    </td>
+    <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
       <a href="https://explorer.coinhunterstr.com/Airchains-Testnet/staking/airvaloper1986du694z9wduhxhtpysxstk8jr0qw0a0nu6a9" target="_blank">
         <img src="https://pbs.twimg.com/profile_images/1689908960726245376/NSEHl_ga_400x400.jpg" alt="Airchains" style="width: 100px; height: 100px; object-fit: contain;">
       </a>
