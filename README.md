@@ -140,3 +140,19 @@
     </td>
   </tr>
 </table>
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+  <tr>
+    <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
+      <a href="https://explorer.coinhunterstr.com/Side-Testnet/staking/sidevaloper1qqxsxyqkzypqvrq6rvwqqysnzsppcxqsqywqvxq7rvwqspc5rczpvzq2lgw" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1864018507362336768/mu-qb5PG_400x400.jpg" alt="Side" style="width: 100px; height: 100px; object-fit: contain;">
+      </a>
+      <p>Side Protocol</p>
+    </td>
+    <td style="width: 33.33%; text-align: center; padding: 10px; vertical-align: top;">
+      <a href="https://service.coinhunterstr.com/testnet/dill/andes" target="_blank">
+        <img src="https://pbs.twimg.com/profile_images/1781192846802063360/47MIlcJf_400x400.jpg" alt="Dill" style="width: 100px; height: 100px; object-fit: contain;">
+      </a>
+      <p>Dill Network</p>
+    </td>
+  </tr>
+</table>
